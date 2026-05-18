@@ -1,6 +1,6 @@
 <h1>Data Analysis - Nasal-airway epithelial cells (NAECs) </h1>
 
- ### [Single cell profiling to determine influence of wheeze and early-life viral infection on developmental programming of airway epithelium ](https://pubmed.ncbi.nlm.nih.gov/39026695/)
+ ### [Single cell profiling to determine influence of wheeze and early-life viral infection on developmental programming of airway epithelium ](https://pubmed.ncbi.nlm.nih.gov/40408478/)
 
 <h2>Description</h2>
 This project consists of the scripts used in the analysis in this research paper. The data consisted on 9 scRNA-seq data sets obtained from sequencing nasal airway epithelial cells from children age 2-3 years from four mutually exclusive groups of wheezers/non-wheezers and RSV-infected/uninfected in the first year of life. The data was sequenced on 10x Genomics and the raw sequencing data was processedusing the CellRnager pipeline. Detailed in teh scripts are the methods of integration and downstream analysis to generate figures and data used in the researcg paper. 
